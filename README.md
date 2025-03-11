@@ -1,5 +1,3 @@
-I'd be happy to improve the README for your fuzzydiff tool! Here's a more friendly and comprehensive version:
-
 # 🔍 fuzzydiff
 
 ![fuzzydiff demo](https://github.com/user-attachments/assets/4c87cb3c-390a-41c1-a899-d5e782409754)
