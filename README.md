@@ -8,7 +8,7 @@ fuzzydiff is a lightning-fast tool that combines the power of `fzf` and `delta` 
 
 ## ✨ Key Features
 
-- **Blazing Fast**: Navigate through diffs with the speed and flexibility of fzf
+- ~**Blazing Fast**: Navigate through diffs with the speed and flexibility of fzf~ Not yet. I'll port it to Rust one day so please wait.
 - **Beautiful Visualization**: See your changes with delta's beautiful syntax highlighting
 - **Seamless Editing**: Press Enter to instantly open the selected file in your `$EDITOR`
 - **Maximum Productivity**: Save precious development time with intuitive keyboard navigation
