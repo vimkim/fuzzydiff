@@ -10,6 +10,9 @@ $ git diff branchA branchB | fuzzydiff.py
 $ diff -ur a.txt b.txt | fuzzydiff.py
 ```
 
+Then, just use `Up` or `Down` arrow keys and press `<Enter>` to open it in your favorite text editor!
+
+
 ## What is fuzzydiff?
 
 fuzzydiff is a lightning-fast tool that combines the power of `fzf` and `delta` to supercharge your diff viewing workflow. It opens piped diff files in a fuzzy finder interface, with beautiful syntax highlighting via delta, and lets you quickly open selected files in your preferred editor.
