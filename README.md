@@ -2,6 +2,14 @@
 
 ![fuzzydiff demo](https://github.com/user-attachments/assets/4c87cb3c-390a-41c1-a899-d5e782409754)
 
+Use it just like delta or diffnav!
+
+```sh
+$ git diff branchA branchB | fuzzydiff.py
+
+$ diff -ur a.txt b.txt | fuzzydiff.py
+```
+
 ## What is fuzzydiff?
 
 fuzzydiff is a lightning-fast tool that combines the power of `fzf` and `delta` to supercharge your diff viewing workflow. It opens piped diff files in a fuzzy finder interface, with beautiful syntax highlighting via delta, and lets you quickly open selected files in your preferred editor.
